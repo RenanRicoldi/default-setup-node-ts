@@ -12,7 +12,7 @@ Ele te dá os seguintes recursos:
 ---
 
 ### English Version
-This a default setup for node projects that use ***Typescript***, made based on the video [*Setup para apps Node.js*](https://www.youtube.com/watch?v=rCeGfFk-uCk).   
+This a default setup for node projects that use ***Typescript***, based on the video [*Setup para apps Node.js*](https://www.youtube.com/watch?v=rCeGfFk-uCk).   
 It gives you the following feautres:
 * Typescript support with **ts-node-dev**
 * Routing support with **Express**
