@@ -9,6 +9,12 @@ Ele te dá os seguintes recursos:
 * Linting com **ESlint**
 * Resolução de módulos e caminhos com **Babel** e **tsconfig-paths**
 
+Recomendo utilizar a seguinte configuração global no seu vscode:
+```yaml
+"editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+}
+```
 ---
 
 ### English Version
@@ -19,3 +25,10 @@ It gives you the following feautres:
 * Test support with **Jest**
 * Linting with **ESlint**
 * Path and module resolver with **Babel** and **tsconfig-paths**
+
+I do recommend using the following global setting on vscode:
+```yaml
+"editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+}
+```
